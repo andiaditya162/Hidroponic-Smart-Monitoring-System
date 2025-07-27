@@ -4,13 +4,13 @@
 #include <LiquidCrystal_I2C.h>
 #include <time.h>
 
-#define WIFI_SSID "syafwan.iot"
-#define WIFI_PASSWORD "iot@2025"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define API_KEY "AIzaSyAdBriSGexObRIpMakR8zsCaEYVX511hAo"
-#define FIREBASE_PROJECT_ID "pakcoy-track"
-#define USER_EMAIL "shafwansidqi@gmail.com"
-#define USER_PASSWORD "iot2025"
+#define API_KEY ""
+#define FIREBASE_PROJECT_ID ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 #define RELAY_PIN 4
 #define WATER_LEVEL_SENSOR_PIN 32
